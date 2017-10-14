@@ -1,0 +1,6 @@
+D:\Users\101-10\Documents\aircompany1\Aircompany\Aircompany\bin\Debug\Aircompany.exe.config
+D:\Users\101-10\Documents\aircompany1\Aircompany\Aircompany\bin\Debug\Aircompany.exe
+D:\Users\101-10\Documents\aircompany1\Aircompany\Aircompany\bin\Debug\Aircompany.pdb
+D:\Users\101-10\Documents\aircompany1\Aircompany\Aircompany\obj\Debug\Aircompany.csprojResolveAssemblyReference.cache
+D:\Users\101-10\Documents\aircompany1\Aircompany\Aircompany\obj\Debug\Aircompany.exe
+D:\Users\101-10\Documents\aircompany1\Aircompany\Aircompany\obj\Debug\Aircompany.pdb
